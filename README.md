@@ -1,2 +1,6 @@
 # hello-world
-Daisy
+
+Hi, 
+
+I am Daisy, a newbie to github.
+
